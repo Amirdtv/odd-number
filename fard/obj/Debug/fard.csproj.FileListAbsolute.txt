@@ -1,0 +1,8 @@
+C:\Users\AMIR\OneDrive\Desktop\emt\fard\fard\bin\Debug\fard.exe.config
+C:\Users\AMIR\OneDrive\Desktop\emt\fard\fard\bin\Debug\fard.exe
+C:\Users\AMIR\OneDrive\Desktop\emt\fard\fard\bin\Debug\fard.pdb
+C:\Users\AMIR\OneDrive\Desktop\emt\fard\fard\obj\Debug\fard.csproj.AssemblyReference.cache
+C:\Users\AMIR\OneDrive\Desktop\emt\fard\fard\obj\Debug\fard.csproj.SuggestedBindingRedirects.cache
+C:\Users\AMIR\OneDrive\Desktop\emt\fard\fard\obj\Debug\fard.csproj.CoreCompileInputs.cache
+C:\Users\AMIR\OneDrive\Desktop\emt\fard\fard\obj\Debug\fard.exe
+C:\Users\AMIR\OneDrive\Desktop\emt\fard\fard\obj\Debug\fard.pdb
